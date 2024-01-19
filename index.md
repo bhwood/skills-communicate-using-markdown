@@ -5,7 +5,9 @@
 ```python
 greeting = "Hello, world! My name is Billy!"
 ```
-
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
 
@@ -27,3 +29,4 @@ greeting = "Hello, world! My name is Billy!"
 Added a H1 Header
 Added and Image
 Added a code snippet
+Added checkboxes
