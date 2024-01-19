@@ -2,7 +2,9 @@
 ![Mclaren F1 Car](https://cdn-5.motorsport.com/images/amp/6gpADpb0/s1000/oscar-piastri-mclaren-mcl60-1.webp)
 
 
-
+```python
+greeting = "Hello, world! My name is Billy!"
+```
 
 
 
@@ -23,3 +25,5 @@
 
 
 Added a H1 Header
+Added and Image
+Added a code snippet
